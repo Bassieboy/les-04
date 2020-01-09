@@ -2,11 +2,177 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
     background-image: linear-gradient(to right, #F99C34 , #FF24E4);
+}
 
+title {
+  text-align: center
+  
+}
+
+#textbox1 {
+  border: 2px solid #CDC20E;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+} 
+
+#textbox2 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 50px;
+} 
+
+#textbox3 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 200px;
+  position: absolute;
+
+} 
+
+#textbox4 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 335px;
+  position: absolute;
 
 }
 
-  img {
-    width:30%
-    
-  }
+#textbox5 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 470px;
+  position: absolute;
+
+} 
+
+#textbox6 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 610px;
+  position: absolute;
+
+} 
+
+#textbox7 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 750px;
+  position: absolute;
+
+} 
+
+#textbox8 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 890px;
+  position: absolute;
+
+} 
+
+#textbox9 {
+  border: 2px solid #F99C34;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: left;
+  margin-top: 1030px;
+  position: absolute;
+
+} 
+
+#textbox10 {
+  border: 2px solid #FF24E4;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: right;
+  margin-top: 50px;
+
+} 
+
+#textbox11 {
+  border: 2px solid #0DAF3E;
+  width: 220px ;
+  margin: 20px;
+  padding: 30px ;
+  background: white ;
+  color: black ;
+  margin: auto;
+  text-align: center;
+  float: right;
+  margin-top: 1030px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
